@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Proginow Logo](https://proginow.com/logo.png)
 Welcome to the Proginow!
 ## About Proginow Framework
 Proginow is a modern and feature-rich PHP framework designed to simplify and accelerate the process of web application development. It follows the MVC (Model-View-Controller) architectural pattern, providing a structured and organized approach to building robust and scalable applications.
@@ -17,4 +18,3 @@ To get started with Proginow, please refer to the [official documentation](https
 We welcome contributions from the community to make Proginow even better. If you have any bug reports, feature requests, or pull requests, please submit them to the [issue tracker](https://github.com/proginow/proginow/issues).
 ## License
 ProgiNow PHP Framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-[Proginow Logo](https://proginow.com/logo.png)
