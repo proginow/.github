@@ -1,5 +1,5 @@
-## Hi there 👋
-![Proginow Logo](https://proginow.com/logo.png)
+![Proginow Logo](https://avatars.githubusercontent.com/u/156534492?s=200&v=4)
+## Proginow
 Welcome to the Proginow!
 ## About Proginow Framework
 Proginow is a modern and feature-rich PHP framework designed to simplify and accelerate the process of web application development. It follows the MVC (Model-View-Controller) architectural pattern, providing a structured and organized approach to building robust and scalable applications.
