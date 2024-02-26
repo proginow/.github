@@ -13,7 +13,7 @@ Proginow is a modern and feature-rich PHP framework designed to simplify and acc
 - **Error Handling**: Proginow has a comprehensive error handling mechanism to facilitate debugging and troubleshooting.
 - **Caching**: Proginow supports caching mechanisms to optimize application performance.
 ## Getting Started
-To get started with Proginow, please refer to the [official documentation](https://proginow.com/documentation) for detailed installation instructions, usage guidelines, and code examples.
+To get started with Proginow, please refer to the [official documentation](https://proginow.com/en/framework) for detailed installation instructions, usage guidelines, and code examples.
 ## Contributing
 We welcome contributions from the community to make Proginow even better. If you have any bug reports, feature requests, or pull requests, please submit them to the [issue tracker](https://github.com/proginow/proginow/issues).
 ## License
